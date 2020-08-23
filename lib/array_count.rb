@@ -3,8 +3,6 @@ def count_strings(array)
 string = ()
 array().count 
 string.count ()
-
-
 end
 
 def count_empty_strings(array)
